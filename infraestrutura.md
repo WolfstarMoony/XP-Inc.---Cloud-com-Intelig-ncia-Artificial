@@ -1,4 +1,4 @@
-## **Infra infraestrutura**
+## **Infraestrutura**
 
 - A **infraestrutura** ele se refere ao conjunto de **recursos físicos e virtuais** necessários para operar sistemas de TI, incluindo
 
